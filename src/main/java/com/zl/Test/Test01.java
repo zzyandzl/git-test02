@@ -14,5 +14,7 @@ public class Test01 {
         System.out.println("four commit");
 
         System.out.println("master commit");
+
+        System.out.println("dev commit");
     }
 }
