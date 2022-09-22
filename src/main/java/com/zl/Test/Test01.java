@@ -16,5 +16,6 @@ public class Test01 {
         System.out.println("master commit");
 
         System.out.println("dev commit");
+        System.out.println("master commit2");
     }
 }
